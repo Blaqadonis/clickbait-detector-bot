@@ -1,4 +1,6 @@
 # Clickbait Detector Bot
+![image](https://github.com/Blaqadonis/clickbait-detector-bot/assets/100685852/cd03de43-8354-42bc-9b7e-df8442769838)
+
 ### Powered by 🅱🅻🅰🆀
 
 ## Overview
