@@ -1,0 +1,202 @@
+[
+    {
+        "headline": "Rising Sea Levels: An Imminent Threat to Coastal Cities!",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Breakthrough in Solar Cell Efficiency Could Revolutionize Sustainable Energy",
+        "tag": "Legit"
+    },
+    {
+        "headline": "AI in Healthcare: The Future of Diagnosis and Treatment",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Pandemic Lockdowns: A Financial Disaster for Small Businesses",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "CRISPR: The Revolutionary Gene-Editing Technique Fighting Genetic Diseases",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Autonomous Vehicles: Transforming Transportation as We Know It",
+        "tag": "Legit"
+    },
+    {
+        "headline": "The Dark Side of Social Media: Teenagers' Mental Health Crisis",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Eco-Friendly Housing: The Future of Sustainable Architecture",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Mars Colonization: Challenges and Prospects of Space Exploration",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Quantum Computing: A New Era of Data Security and Encryption",
+        "tag": "Legit"
+    },
+    {
+        "headline": "5G Revolution: The Future of Internet Connectivity is Here",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Innovative Teaching Methods Reshaping Online Education",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Biotechnology in Agriculture: Boosting Crop Yields and Pest Resistance",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Mental Health Crisis in Urban Areas: A 21st Century Challenge",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Robotic Surgery: The Cutting-Edge Advancement in Medical Science",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Global Tourism's Impact on Endangered Wildlife and Habitats",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Electric Vehicles: Analyzing the Future of the Automotive Industry",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Big Data: Predicting the Future of Retail and Consumer Behavior",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Augmented Reality: Transforming Education and Learning Experiences",
+        "tag": "Legit"
+    },
+    {
+        "headline": "The Silent Threat: Long-Term Effects of Microplastics on Marine Life",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "The Secret Behind the Celebrity's Sudden Success!",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Local Library Hosts Free Coding Workshop for Kids",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Unbelievable Diet Trick That Doctors Won't Tell You!",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Scientists Make Breakthrough in Renewable Energy",
+        "tag": "Legit"
+    },
+    {
+        "headline": "10 Things You Didn't Know About the Ocean",
+        "tag": "Legit"
+    },
+    {
+        "headline": "City Council Votes for New Public Park",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Is Your Phone Spying on You? Find Out!",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Study Shows Coffee Can Improve Memory",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Shocking Celebrity Scandal Revealed!",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Local School Wins National Science Fair",
+        "tag": "Legit"
+    },
+    {
+        "headline": "The Ultimate Guide to Perfect Skin - Dermatologists Hate This!",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Groundbreaking Research on Heart Disease Presented at Conference",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Are Aliens Among Us? New Evidence Suggests So!",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "How to Save Money on Your Next Vacation",
+        "tag": "Legit"
+    },
+    {
+        "headline": "This One Food Can Change Your Life Forever!",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Experts Discuss the Future of Artificial Intelligence",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Why You Should Never Eat These Common Foods",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Comprehensive Review of the Latest Smartphone Models",
+        "tag": "Legit"
+    },
+    {
+        "headline": "The Hidden Dangers of Household Cleaning Products",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Celebrity Shares Secret to Instant Wealth",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Revolutionary Exercise Routine Promises Rapid Weight Loss",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Historical Discovery Sheds New Light on Ancient Civilization",
+        "tag": "Legit"
+    },
+    {
+        "headline": "The Shocking Truth About Processed Meat",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Expert Tips for Maintaining Mental Health",
+        "tag": "Legit"
+    },
+    {
+        "headline": "What Your Doctor Isn't Telling You About Supplements",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Innovative Startup Disrupts Traditional Industry",
+        "tag": "Legit"
+    },
+    {
+        "headline": "The Diet Myths That Could Be Harming Your Health",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Award-Winning Author Releases New Bestseller",
+        "tag": "Legit"
+    },
+    {
+        "headline": "Bizarre New Fashion Trend Takes the World by Storm",
+        "tag": "Clickbait"
+    },
+    {
+        "headline": "Cutting-Edge Robot Technology Set to Transform Daily Life",
+        "tag": "Legit"
+    }
+]

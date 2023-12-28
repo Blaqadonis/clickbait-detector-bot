@@ -1,0 +1,122 @@
+[
+    {
+        "headline": "Doctors Hate Him! See how he lost 10 pounds with this one simple trick",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "You won't believe what this star said on live TV!",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "The secret to earning millions with minimal effort revealed!",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "What banks don't want you to know about saving money",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "Shocking discovery: Scientist finds new use for everyday item",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "Is this the end of aging? New study has surprising results",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "Unbelievable! Local mom discovers a revolutionary diet",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "Celebrities in shock: The truth about the latest scandal",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "This weird trick can increase your car's fuel efficiency",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "The government's secret plan exposed in a new leak",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "The miracle fruit that burns fat while you sleep",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "Ten signs you might be a genius and not know it",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "How this simple change can double your internet speed",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "The hidden dangers lurking in your household",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "Experts baffled by this new health trend",
+        "category": "Clickbait"
+    },
+    {
+        "headline": "NASA announces new mission to study Earth's climate",
+        "category": "Legit"
+    },
+    {
+        "headline": "Global markets react to recent changes in oil prices",
+        "category": "Legit"
+    },
+    {
+        "headline": "Study shows potential health benefits of moderate coffee consumption",
+        "category": "Legit"
+    },
+    {
+        "headline": "New advancements in renewable energy technology",
+        "category": "Legit"
+    },
+    {
+        "headline": "Researchers find link between exercise and mental health",
+        "category": "Legit"
+    },
+    {
+        "headline": "Local community comes together to support small businesses",
+        "category": "Legit"
+    },
+    {
+        "headline": "Scientists make breakthrough in cancer research",
+        "category": "Legit"
+    },
+    {
+        "headline": "Education department to increase funding for public schools",
+        "category": "Legit"
+    },
+    {
+        "headline": "New study reveals the impact of climate change on coastal cities",
+        "category": "Legit"
+    },
+    {
+        "headline": "Tech company releases innovative new smartphone",
+        "category": "Legit"
+    },
+    {
+        "headline": "Historians discover previously unknown ancient civilization",
+        "category": "Legit"
+    },
+    {
+        "headline": "Latest unemployment rates show a decrease in joblessness",
+        "category": "Legit"
+    },
+    {
+        "headline": "Expert tips for maintaining a healthy work-life balance",
+        "category": "Legit"
+    },
+    {
+        "headline": "International conference on climate change convenes this week",
+        "category": "Legit"
+    },
+    {
+        "headline": "Innovative start-up aims to revolutionize the tech industry",
+        "category": "Legit"
+    }
+]
